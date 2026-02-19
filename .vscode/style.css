@@ -1,7 +1,9 @@
-h1{
-    color: orangered;
-    text-decoration: underline;
-    text-align: center;
-    text-transform: uppercase;
-    justify-content: center;
+.dark{
+    background-color: black;
+    color: white;
+}
+
+.light{
+    background-color: white;
+    color: black;
 }
